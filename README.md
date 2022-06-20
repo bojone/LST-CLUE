@@ -10,6 +10,7 @@ Ladder Side-Tuning在CLUE上的简单尝试
 
 ## 其他
 - 参考：https://github.com/bojone/CLUE-bert4keras
+- 原论文实现：https://github.com/ylsung/Ladder-Side-Tuning
 
 ## 交流
 QQ交流群：808623966，微信群请加机器人微信号spaces_ac_cn
